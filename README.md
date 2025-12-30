@@ -1,4 +1,4 @@
-
+Author = Nasir Khan Babar
 This repository contains basic data cleaning examples using Python.  
 It focuses on handling missing values, data preprocessing, and basic visualization.
 
